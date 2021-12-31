@@ -6,6 +6,9 @@ The program is made using Python.
 **Windeow user can download dist.zip and double click ZhouYi.exe to run the program after unzip.** If "dist.zip is not commonly downloaded and may be dangerous" appears during downloading, click "^" and press "keep". After double clicking the exe file, if "Windows protect your PC" shows up, click "More Info" and click "run anyway".
 
 **window用户可以下载dist.zip，解压之后双击ZhouYi.exe即可运行程序。** 如果下载时遇到问题，点击"^"选择”继续“，如果运行exe文件时遇到windows的保护系统，选择”了解更多”，然后点击“继续运行”。（我也不知道我翻译的准不准确......
+
+If the system language is not Chinese, run it in terminal, otherwise chinese letter won't show up. 如果电脑的系统语言不是英语，在命令行里执行程序，否则中文显示不出来。
+
 ## Reference
 https://www.douban.com/group/topic/42705779/
 
